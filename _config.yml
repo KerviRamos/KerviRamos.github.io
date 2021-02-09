@@ -9,6 +9,15 @@ twitter_username: kerviRamos
 github_username:  KerviRamos
 
 #######################
+#      Sub-Pages      #
+#######################
+header_pages:
+  - about.markdown
+  - bucket_list.markdown
+  - projects.markdown
+  - resources.markdown
+
+#######################
 #    Build Settings   #
 #######################
 theme: minima
